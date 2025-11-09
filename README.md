@@ -1,4 +1,4 @@
-<img src="https://www.linkedin.com/in/dev-henayetul-islam/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6H6sVQ%2FDQWiycOeiplsdmA%3D%3D">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGTtGy3pifUug/profile-displaybackgroundimage-shrink_350_1400/B4EZosJSX6KMAY-/0/1761677227086?e=1764201600&v=beta&t=aSiMa9z6WU9ieUdI_PVXFbCsdDWDL4w4Wrz6uqrPjaE">
 
 <h3 align="center">Professional & Innovative Web Designer, Web Developer and WordPress Specialist.</h3>
 
