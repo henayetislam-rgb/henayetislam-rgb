@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGTtGy3pifUug/profile-displaybackgroundimage-shrink_350_1400/B4EZosJSX6KMAY-/0/1761677227086?e=1764201600&v=beta&t=aSiMa9z6WU9ieUdI_PVXFbCsdDWDL4w4Wrz6uqrPjaE"](https://i.ibb.co.com/hFnhjg9C/Black-Purple-Modern-Website-Design-And-Development-Banner-3.png">
+<img src="https://i.ibb.co.com/hFnhjg9C/Black-Purple-Modern-Website-Design-And-Development-Banner-3.png">
 
 <h3 align="center">Professional & Innovative Web Designer, Web Developer and WordPress Specialist.</h3>
 
