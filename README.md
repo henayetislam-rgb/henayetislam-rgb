@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)" alt="DevHenayetislam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" alt="DevHenayetislam" /></a> </p>
 
 - 🔭 I’m currently working on [Freelancer](#)
 
