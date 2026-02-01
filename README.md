@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQGTtGy3pifUug/profile-displaybackgroundimage-shrink_350_1400/B4EZosJSX6KMAY-/0/1761677227086?e=1771459200&v=beta&t=Lix3PUwjkI9dRS371ClIE-tLOjCVO06bJk-UqYI7gGA">
 
-<h3 align="center">Professional & Innovative Web Designer, Web Developer and WordPress Specialist.</h3>
+<h3 align="center">Professional & Innovative Fullstack Web Developer and WordPress Specialist.</h3>
 
 
 
