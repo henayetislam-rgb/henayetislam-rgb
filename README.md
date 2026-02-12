@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGOhbn7lBfR9g/profile-displaybackgroundimage-shrink_350_1400/B56ZxS.UAXKIAY-/0/1770918593504?e=1772668800&v=beta&t=8ehpeMvb7umXpYtD9PGFJqcc0tE8nziPU3i0z63NMb0">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEMN_aepo7xtQ/profile-displaybackgroundimage-shrink_350_1400/B56ZxTGNFxH8Ac-/0/1770920665247?e=1772668800&v=beta&t=rIsMM_vvFBXlITb6ix4_CMmrtEVjJtSmEJxkQ0XCNw4">
 
 <h3 align="center">Professional & Innovative Fullstack Web Developer and WordPress Specialist.</h3>
 
