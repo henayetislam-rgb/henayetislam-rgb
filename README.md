@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Md Henayetul Islam</h1>
 <h3 align="center">Professional & Innovative Full-Stack Web Developer and WordPress Specialist. </h3>
 With over 3 years of experience helping businesses and individuals build websites that look beautiful, perform, and deliver real results. I have completed 200+ projects for clients in various industries.
+I have led the creation, design, and management of innovative, user-centric websites and web applications. I combine technical expertise with creative vision to deliver dynamic, responsive, high-performance web solutions tailored to clients and organizations.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henayetislam-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="henayetislam-rgb" /> </p>
 
