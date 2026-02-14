@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henayetislam-rgb" alt="henayetislam-rgb" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancer](#)
+- 🔭 I’m currently working on [Freelancer.com & Fiverr](#)
 
 - 🌱 I’m currently learning **JavaScript PHP**
 
