@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Henayetul Islam</h1>
-<h3 align="center">Professional & Innovative Full Stack Web Developer and WordPress Specialist with over 3 years of experience helping businesses and individuals build websites that look beautiful, performing and deliver real results. I have completed 200+ projects for clients in various industries.</h3>
+<h3 align="center">Professional & Innovative Full Stack Web Developer and WordPress Specialist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henayetislam-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="henayetislam-rgb" /> </p>
 
@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **JavaScript PHP**
 
-- 👯 I’m looking to collaborate on **Web Design & Development**
+- 👯 I’m looking to collaborate on [Web Design & Development](https://github.com/henayetislam-rgb)
 
-- 🤝 I’m looking for help with **Web Design, Development & WordPress Development**
+- 🤝 I’m looking for help with [Web Design, Development & WordPress Development](https://github.com/henayetislam-rgb)
 
 - 👨‍💻 All of my projects are available at [https://github.com/henayetislam-rgb](https://github.com/henayetislam-rgb)
 
@@ -40,5 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henayetislam-rgb&show_icons=true&locale=en" alt="henayetislam-rgb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henayetislam-rgb&" alt="henayetislam-rgb" /></p>
+
 
 
