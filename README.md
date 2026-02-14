@@ -10,6 +10,8 @@ I have led the creation, design, and management of innovative, user-centric webs
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henayetislam-rgb" alt="henayetislam-rgb" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on [Freelancer.com & Fiverr](#)
 
 - 🌱 I’m currently learning **JavaScript PHP**
