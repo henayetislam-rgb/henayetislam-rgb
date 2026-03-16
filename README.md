@@ -26,8 +26,7 @@ I have led the creation, design, and management of innovative, user-centric webs
 
 - 📫 How to reach me **henayetislam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MTOiCg3-6qJFTGquFjlt8VMF5vT67VEj/view?usp=sharing](https://drive.google.com/file/d/1z7fvXRV2Dl3L4HdvmEEhCyBeIBaHL19O/view?usp=sharing)
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1P3wfS7ibeniaubMDeJmlXe37zR7Ux0Qk/view?usp=sharing
 - ⚡ Fun fact **Learning New Things**
 
 <h3 align="left">Connect with me:</h3>
