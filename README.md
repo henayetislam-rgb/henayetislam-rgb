@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQEMN_aepo7xtQ/profile-displaybackgroundimage-shrink_350_1400/B56ZxTGNFxH8Ac-/0/1770920665247?e=1775088000&v=beta&t=-nHCEhsYw41EmDzPJ4i3pXr7h8lJbRwd3K0Xsx5vGhY">
 
 
-<h1 align="center">Hi 👋, I'm Md Henayetul Islam</h1>
+
 <h3 align="center">Professional & Innovative Full-Stack Web Developer and WordPress Specialist. </h3>
 With over 3 years of experience helping businesses and individuals build websites that look beautiful, perform, and deliver real results. I have completed 200+ projects for clients in various industries.
 I have led the creation, design, and management of innovative, user-centric websites and web applications. I combine technical expertise with creative vision to deliver dynamic, responsive, high-performance web solutions tailored to clients and organizations.
