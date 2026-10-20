@@ -9,7 +9,7 @@ I have led the creation, design, and management of innovative, user-centric webs
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henayetislam-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="henayetislam-rgb" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on [Freelancer.com & Fiverr](#)
 
 - 🌱 I’m currently learning **JavaScript PHP**
